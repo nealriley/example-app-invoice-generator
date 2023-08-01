@@ -2,3 +2,5 @@ pdfkit
 streamlit
 streamlit-option-menu
 langchain
+snowflake-snowpark-python
+openai
