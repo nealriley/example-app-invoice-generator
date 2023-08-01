@@ -1,4 +1,4 @@
-name: snowpark-llm-chatbot
+name: base
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - conda-forge

@@ -2,4 +2,3 @@ pdfkit
 streamlit
 streamlit-option-menu
 langchain
-streamlit-audiorecorder
